@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated skill levels. Values are 0-100.",
+  "axes": [
+    { "label": "Python",       "value": 85 },
+    { "label": "C++",          "value": 72 },
+    { "label": "SQL",          "value": 78 },
+    { "label": "AI / ML",      "value": 72 },
+    { "label": "Data Analysis","value": 75 },
+    { "label": "AWS / Cloud",  "value": 62 },
+    { "label": "DSA",          "value": 68 }
+  ]
+}
