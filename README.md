@@ -48,7 +48,7 @@ Currently, I'm exploring **Agentic AI, advanced AI workflows, backend architectu
 
 <div align="center">
 
-## `~/` skill radar
+## SKILL RADAR
 
 <table>
 <tr>
