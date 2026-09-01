@@ -23,13 +23,21 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Tanisha Chaudhary**, a Computer Science Engineering student and aspiring Python Developer
-interested in AI, Machine Learning, Data Analytics, and Cloud Computing.
+Hi, I'm **Tanisha **, an aspiring Software Engineer and Computer Science Engineering student interested in **Backend Development, AI, Data Science, and Cloud Computing**.
 
-- 🎓 B.Tech CSE student, graduating in 2027
-- 💻 Building projects with **Python, C++, SQL, Flask, Streamlit, and AI/ML**
-- 🤖 Currently exploring **Agentic AI, AWS, DSA, and Data Analytics**
-- 🚀 I enjoy turning ideas into practical projects and continuously learning new technologies
+I enjoy building **intelligent, scalable, and data-driven applications** that solve real-world problems. My experience includes developing backend applications, working with databases, exploring machine learning solutions, and building cloud-based projects through internships, projects, and hackathons.
+
+I work primarily with **Python, C++, SQL, FastAPI, Flask, AWS, Linux, Machine Learning, and Data Analytics**. I'm particularly interested in the intersection of **software engineering and artificial intelligence**, where automation, data, and intelligent systems come together.
+
+Currently, I'm exploring **Agentic AI, advanced AI workflows, backend architectures, and cloud technologies** while continuously building projects and strengthening my technical skills.
+
+### `~/` interests
+
+- 💻 **Backend Engineering**
+- 🤖 **Artificial Intelligence & Agentic AI**
+- 📊 **Data Science & Analytics**
+- ☁️ **Cloud Computing**
+- 🚀 **Building Real-World Projects**
 <br>
 
 <div align="center">
