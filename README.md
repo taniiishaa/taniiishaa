@@ -36,8 +36,6 @@ Currently, I'm exploring **Agentic AI, advanced AI workflows, backend architectu
 - 🚀 **Building Real-World Projects**
 <br>
 
-<div align="center">
-
 ## TECHNICAL SKILLS
 
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql,html,css,flask,git,github,vscode,aws,docker&perline=11" alt="tech stack">
