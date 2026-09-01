@@ -19,10 +19,6 @@
 
 # ABOUT ME
 
-```console
-$ cat about.txt
-```
-
 Hi, I'm **Tanisha**, an aspiring Software Engineer and Computer Science Engineering student interested in **Backend Development, AI, Data Science, and Cloud Computing**.
 
 I enjoy building **intelligent, scalable, and data-driven applications** that solve real-world problems. My experience includes developing backend applications, working with databases, exploring machine learning solutions, and building cloud-based projects through internships, projects, and hackathons.
