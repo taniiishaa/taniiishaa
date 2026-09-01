@@ -118,7 +118,6 @@ Currently, I'm exploring **Agentic AI, advanced AI workflows, backend architectu
 
 <br><br>
 
-<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
 
 </div>
 
