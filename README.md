@@ -83,26 +83,6 @@ Currently, I'm exploring **Agentic AI, advanced AI workflows, backend architectu
 
 ---
 
-## CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/taniiishaa" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub">
-</a>
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/tanisha-chaudhary-121621292" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn">
-</a>
-&nbsp;&nbsp;
-
-<a href="mailto:tanishac216@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email">
-</a>
-
-</div>
-
 <div align="center">
 
 
