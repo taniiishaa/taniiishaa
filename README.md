@@ -78,8 +78,6 @@ Currently, I'm exploring **Agentic AI, advanced AI workflows, backend architectu
 
 ## CONTRIBUTION ACTIVITY
 
-<!-- 3D isometric calendar, regenerated every 6h by .github/workflows/metrics.yml -->
-<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
 
 <br><br>
 
@@ -109,7 +107,6 @@ Currently, I'm exploring **Agentic AI, advanced AI workflows, backend architectu
 
 <br>
 
-<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
 
 <br><br>
 
