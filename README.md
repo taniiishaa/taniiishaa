@@ -82,7 +82,6 @@ Currently, I'm exploring **Agentic AI, advanced AI workflows, backend architectu
 </div>
 
 ---
----
 
 ## CONNECT WITH ME
 
