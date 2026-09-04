@@ -40,7 +40,7 @@ Currently, I'm exploring **Agentic AI, advanced AI workflows, backend architectu
 ## TECHNICAL SKILLS
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,html,css,flask,Streamlit,RESTAPIs,git,github,vscode,aws,Pandas,NumPy,Matplotlib,Excel,docker&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,html,css,flask,git,github,vscode,aws,docker&perline=11" alt="tech stack">
 </div> 
 
 
