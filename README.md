@@ -86,7 +86,7 @@ Currently, I'm exploring **Agentic AI, advanced AI workflows, backend architectu
 
 ## CONNECT WITH ME
 
-<div align="left">
+<div align="center">
 
 <a href="https://github.com/taniiishaa" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub">
