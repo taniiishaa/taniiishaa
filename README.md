@@ -2,7 +2,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/taniiishaa">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Tanisha;Python+Developer;AI+%26+ML+Enthusiast;Building+with+Code" alt="typing banner">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Tanisha;Python+Developer;AI+%26+Enthusiast;Building+with+Code" alt="typing banner">
 </a>
 
 <br>
