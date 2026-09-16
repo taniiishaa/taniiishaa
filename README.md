@@ -23,7 +23,7 @@ Hi, I'm **Tanisha**, an aspiring Software Engineer and Computer Science Engineer
 
 I enjoy building **intelligent, scalable, and data-driven applications** that solve real-world problems. My experience includes developing backend applications, working with databases, exploring machine learning solutions, and building cloud-based projects through internships, projects, and hackathons.
 
-I work primarily with **Python, C++, SQL, FastAPI, Flask, AWS, Linux, Machine Learning, and Data Analytics**. I'm particularly interested in the intersection of **software engineering and artificial intelligence**, where automation, data, and intelligent systems come together.
+I work primarily with **Python, C++, SQL, FastAPI, Flask, AWS, Linux and Data Analytics**. I'm particularly interested in the intersection of **software engineering and artificial intelligence**, where automation, data, and intelligent systems come together.
 
 Currently, I'm exploring **Agentic AI, advanced AI workflows, backend architectures, and cloud technologies** while continuously building projects and strengthening my technical skills.
 
